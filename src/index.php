@@ -2,14 +2,11 @@
 	Author : Henoc SESE
 	License : MIT
 
-	inspiration :
-		- https://premium.wpmudev.org/blog/wp-content/uploads/2012/01/Manifest-Minimalist-WordPress-Theme.png
-		- 
 -->
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>/devdiary - New log</title>
+		<title>/devdiary</title>
 		<meta charset="utf-8" />
 		<style type="text/css">
 			:root  {
