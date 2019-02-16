@@ -4,7 +4,8 @@
   <a href="http://localhost/devdiary/src/index.php"><img src="https://github.com/lemarcque/devdiary/blob/master/devdiary-test.gif" width="600" /><a/>
 </p>
 
-/devdiary est un journal de programmation - un enregistrement quotidien de faits, de décisions, de questions et de conversations entrepris dans le cadre du développement d'un logiciel. Il fonctionne simplement comme un référentiel d'informations qui n'est pas suffisamment structuré pour conserver les documents de conception officiels d'un projet.
+/devdiary est un <a href="http://coliveira.net/software/day-3-keep-a-programming-diary/" style="text-decoration: underline;
+  text-decoration-style:dashed;">journal de programmation</a> - un enregistrement quotidien de faits, de décisions, de questions et de conversations entrepris dans le cadre du développement d'un logiciel. Il fonctionne simplement comme un référentiel d'informations qui n'est pas suffisamment structuré pour conserver les documents de conception officiels d'un projet.
 
 ## Todo
 - Etalblir une procédure d'installation ainsi qu'un système de mise à jour automatiques
