@@ -10,7 +10,7 @@
 	// const - Error
 	const ERROR_JSON_UNEXIST = 1;
 	const ERROR_MAX_LOGDAY = 2;
-	ERROR_UNAUTHORIZED_ACCESS = 3;
+	const ERROR_UNAUTHORIZED_ACCESS = 3;
 
 	function warning($flag) {
 
@@ -21,9 +21,11 @@
 
 			case ERROR_MAX_LOGDAY:
 				print"Erreur : " . $flag . " You've already logged the jobs of the day";
+				break;
 
 			case ERROR_UNAUTHORIZED_ACCESS:
 				print"Erreur : " . $flag . "You're authorized to access this page.";
+				break;
 			
 			default:
 				# code...
