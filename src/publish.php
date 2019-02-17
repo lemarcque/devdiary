@@ -5,7 +5,7 @@
 	 * License		: MIT
 	 */
 
-	const JSON_FILE_PATH = "./log.json";
+	const JSON_FILE_PATH = "./data/log.json";
 
 	// const - Error
 	const ERROR_JSON_UNEXIST = 1;
