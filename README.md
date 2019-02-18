@@ -29,5 +29,9 @@ Pour des raisons de contraintes de temps, j'ai décidé de stocker les données 
 }
 ```
 
+## Debug
+To display the content of the raw data, open the `debug.php`page : http://localhost/devdiary/src/debug.php.
+
+
 ## Authors
 Henoc Sese - [lemarcque](https://github.com/lemarcque)
