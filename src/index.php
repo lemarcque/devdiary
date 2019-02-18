@@ -22,10 +22,10 @@
 
 				<?php
 					// get all articles
-					$fileContent = file_get_contents("./log.json");
+					$fileContent = file_get_contents("./data/log.json");
 					$jsonObject = json_decode($fileContent, true);
 
-					foreach ($jsonObject['log'] as $date => $log) {
+					foreach (array_reverse($jsonObject['log']) as $date => $log) {
 
 						// format the date
 						$arrDate = explode("-", $date);
@@ -39,7 +39,7 @@
 						print '<article id="log-' . $date. '" class="log-article">';
 						print '<h2 class="log-title">' . $log['title'] . '</h2>';
 						print '<h5 class="log-date">' . $formatedDate . '</h5>';
-						print '<p>' . $log['story'] . '</p>';
+						print '<pre>' . $log['story'] . '</pre>';
 						print '<span class="separator"></span>';
 					}
 				?>

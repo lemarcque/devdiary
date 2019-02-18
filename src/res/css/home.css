@@ -9,9 +9,14 @@
 				margin: 0;
 			}
 
-			h2, h5, p {
+			h2, h5, p, pre {
 				font-family: sans-serif;
 				line-height: 1.8em;
+			}
+
+			pre {
+				 white-space: pre-wrap;      /* CSS3 */   
+  				 white-space: -moz-pre-wrap; /* Firefox */   
 			}
 
 			/* selection */

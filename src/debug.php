@@ -5,7 +5,7 @@
 	 * License		: MIT
 	 */
 
-	$fileContent = file_get_contents("./log.json");
+	$fileContent = file_get_contents("./data/log.json");
 	$jsonObject = json_decode($fileContent, true);
 
 	// display content of the JSON object
