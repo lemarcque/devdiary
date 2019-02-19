@@ -69,5 +69,8 @@
 	// start the app
 	log_day();
 
-	
 ?>
+
+<form action="http://localhost/devdiary/src/index.php">
+	<input type="submit" value="Retour">
+</form>

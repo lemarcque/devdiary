@@ -1,8 +1,1 @@
-{
-  "log": {
-    "18-2-2019": {
-      "title": "Lambda Investment",
-      "story": "Free day.\r\nInstead of focusing building a single application that will became complex overtime, I choose to build multiple MVP that will have effective impact and change in my life and that I can present to anybody.\r\n\r\nThe first app is a bills tracker."
-    }
-  }
-}
+{"log":{"18-2-2019":{"title":"Lambda Investment","story":"Free day.\r\nInstead of focusing building a single application that will became complex overtime, I choose to build multiple MVP that will have effective impact and change in my life and that I can present to anybody.\r\n\r\nThe first app is a bills tracker."},"19-2-2019":{"title":"Happy day","story":"Journ\u00e9e fructifiante o\u00f9 j'ai accompli les t\u00e2ches qui \u00e9tait programm\u00e9es.\r\nDans l'application mobile Lambda:bills, Impl\u00e9mentation d'une `RecyclerView` qui liste les factures du mois courant. Il ne restera qu'\u00e0 peaufiner quelque d\u00e9tails puis \u00e0 concevoir l'\u00e9cran qui permet d'en ins\u00e9rer\/modifier."}}}
