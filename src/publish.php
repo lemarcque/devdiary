@@ -71,6 +71,6 @@
 
 ?>
 
-<form action="http://localhost/devdiary/src/index.php">
+<form action="../src/index.php">
 	<input type="submit" value="Retour">
 </form>
